@@ -1,0 +1,17 @@
+.itemImg {
+  max-width: 100px;
+  width: 100%;
+  height: auto;
+}
+
+.layoutItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 260px;
+  padding: 1rem;
+
+  background-color: var(--color-bg-60);
+  border-radius: 14px;
+}

@@ -1,0 +1,14 @@
+.layoutCart {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.itemInCart {
+  display: flex;
+  gap: 6px;
+}
+
+.img {
+  width: 60px;
+}

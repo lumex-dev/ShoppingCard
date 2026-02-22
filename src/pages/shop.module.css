@@ -1,0 +1,12 @@
+.layoutShop {
+  display: flex;
+  gap: 12px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.layoutItems {
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+}
